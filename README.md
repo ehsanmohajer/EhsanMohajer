@@ -1,16 +1,31 @@
-## Hi there 👋
+<div>
+  <img src="./background.jpg" atl="Ehsan Mohajer"  width="100%"/>
+</div>
 
-<!--
-**ehsanmohajer/EhsanMohajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />&nbsp; &nbsp;
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="=VueJS" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<br> 
+<a href="https://t.me/Sani_Developer">
+ <img alt="telegram" src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=white" />
+</a> 
+<a href="https://www.instagram.com/#/">
+ <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>  
+<a href="https://www.linkedin.com/in/ehsan-mohajer-k/">
+ <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>   
+</div>
