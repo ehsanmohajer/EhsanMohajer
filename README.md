@@ -12,7 +12,8 @@ I'm currently pursuing my Master's in Full Stack Development, with a strong pass
 - **RESTful APIs**: Experienced in designing and implementing RESTful APIs
 
 ## 🚀 Projects:
-- Soon
+- Full-Stack Weblog Application for Students 
+- You can view the live version of this project hosted on Vercel by visiting: https://student-weblog-page.vercel.app/
 
 ## 🔧 Tools & Technologies I Use:
 - **Frameworks**: Bootstrap, Tailwind CSS
