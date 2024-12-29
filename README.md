@@ -11,9 +11,14 @@ I'm currently pursuing my Master's in Full Stack Development, with a strong pass
 - **Docker**: Skilled in containerizing applications using Docker
 - **RESTful APIs**: Experienced in designing and implementing RESTful APIs
 
-## 🚀 Projects:
+## 🚀 Projects working on:
 - Full-Stack Weblog Application for Students 
-- You can view the live version of this project hosted on Vercel by visiting: https://student-weblog-page.vercel.app/
+ You can view the live version of this project hosted on Vercel by visiting: https://student-weblog-page.vercel.app/
+
+- Internship working hours tracker
+ You can view the live version of this project hosted on Vercel by visiting: https://internship-tracker-eta.vercel.app/
+
+- See the full resume on my vercel website: https://personal-website-tau-lime-72.vercel.app/
 
 ## 🔧 Tools & Technologies I Use:
 - **Frameworks**: Bootstrap, Tailwind CSS
