@@ -70,10 +70,10 @@ I'm currently pursuing my Master's in Full Stack Development, with a strong pass
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ehsanmohajer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ehsanmohajer&limit=5&theme=dark&combine_all_yearly_contributions=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ehsanmohajer&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=ehsanmohajer&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/ehsanmohajer)
