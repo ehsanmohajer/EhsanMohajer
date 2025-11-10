@@ -30,8 +30,9 @@ I'm currently pursuing my Master's in Full Stack Development, with a passion for
 - AI-Agent-Business-Plan (Private)
   An interactive, bilingual (Finnish/English) web application designed to help entrepreneurs and students create a comprehensive business plan
 
-- See the full resume on my vercel website: https://personal-website-tau-lime-72.vercel.app/
-
+- See the my student life resume : https://ehsanmohajer.github.io/Personal-Website/
+- See my work life resume : https://ehsanmohajer.github.io/Personal-Website2/
+- 
 ## 🔧 Tools & Technologies I Use:
 - **Frameworks**: Bootstrap, Tailwind CSS
 - **Design**: Figma, Adobe XD
