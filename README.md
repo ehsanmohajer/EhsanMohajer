@@ -1,6 +1,6 @@
 # Hi, I'm Ehsan Mohajer 👋
 
-I'm currently pursuing my Master's in Full Stack Development, with a strong passion for both front-end and back-end technologies. I love creating visually appealing and highly functional websites and applications that focus on user experience and performance. Here’s a bit more about my background:
+I'm currently pursuing my Master's in Full Stack Development, with a passion for creating technologies using AI. I mostly doing vibe codes to test and try new AI's that help people to solve their problems. I love creating visually appealing and highly functional websites and applications that focus on user experience and performance. Here’s a bit more about my background:
 
 ## 💻 Skills & Expertise:
 - **Front-end Development**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
@@ -15,8 +15,20 @@ I'm currently pursuing my Master's in Full Stack Development, with a strong pass
 - Full-Stack Weblog Application for Students 
  You can view the live version of this project hosted on Vercel by visiting: https://student-weblog-page.vercel.app/
 
-- Internship working hours tracker
- You can view the live version of this project hosted on Vercel by visiting: https://internship-tracker-eta.vercel.app/
+- Internship-Tracker 
+  A webpage for students to save their working hours and logs into their dashboard.(still in progess)
+
+- AI Hackathon 
+  Show case our AI Hackathon in Viitasaari that connects students to local companies, https://ehsanmohajer.github.io/ViitasaariHackathon/
+
+- TrioTalk (My Thesis - Private)
+  A website that helps students communicate with each other and learn languages ​​through artificial intelligence-based conversation.(still in progress)
+
+- Portfolio Website
+ A modern style portfolio website to showcase skills and resume and projects (still in progress)
+
+- AI-Agent-Business-Plan (Private)
+  An interactive, bilingual (Finnish/English) web application designed to help entrepreneurs and students create a comprehensive business plan
 
 - See the full resume on my vercel website: https://personal-website-tau-lime-72.vercel.app/
 
@@ -30,6 +42,8 @@ I'm currently pursuing my Master's in Full Stack Development, with a strong pass
 - Advanced JavaScript
 - React & Node.js for full-stack development
 - RESTful APIs
+- AI Agents
+- Automation
 
 ## 🎯 Goals:
 - Contribute to open-source projects
