@@ -25,13 +25,11 @@ I'm currently pursuing my Master's in Full Stack Development, with a passion for
   A website that helps students communicate with each other and learn languages ​​through artificial intelligence-based conversation.(still in progress)
 
 - Portfolio Website
- A modern style portfolio website to showcase skills and resume and projects (still in progress)
+ A modern style portfolio website to showcase skills and resume and projects [(still in progress)](https://ehsanmohajer.github.io/Project-mywebsite/)
 
 - AI-Agent-Business-Plan (Private)
   An interactive, bilingual (Finnish/English) web application designed to help entrepreneurs and students create a comprehensive business plan
 
-- See the old style resume : https://ehsanmohajer.github.io/Personal-Website/
-- Newer version with AI Agent : https://ehsanmohajer.github.io/Personal-Website2/
   
 ## 🔧 Tools & Technologies I Use:
 - **Frameworks**: Bootstrap, Tailwind CSS
