@@ -39,10 +39,9 @@ I am a Software Engineer based in Finland, specializing in **AI agents, automati
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=ehsanmohajer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ehsanmohajer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmohajer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmohajer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
